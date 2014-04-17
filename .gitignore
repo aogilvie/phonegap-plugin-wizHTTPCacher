@@ -1,6 +1,10 @@
 # OS X
 *.DS_Store
 
+# Cordova
+platforms/android/assets/
+platforms/ios/www/
+
 # Xcode
 *.xcworkspace
 xcuserdata
